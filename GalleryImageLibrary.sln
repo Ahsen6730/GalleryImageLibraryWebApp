@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalleryImageLibrary", "GalleryImageLibrary\GalleryImageLibrary.csproj", "{71BAFCF7-8A85-4BBF-92D4-5BDB93CB67B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BAFCF7-8A85-4BBF-92D4-5BDB93CB67B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BAFCF7-8A85-4BBF-92D4-5BDB93CB67B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BAFCF7-8A85-4BBF-92D4-5BDB93CB67B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BAFCF7-8A85-4BBF-92D4-5BDB93CB67B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5B9006-C34A-40E5-AB7A-D8F1D4B817F2}
+	EndGlobalSection
+EndGlobal
